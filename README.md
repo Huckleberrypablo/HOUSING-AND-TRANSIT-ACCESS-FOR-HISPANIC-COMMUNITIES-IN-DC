@@ -7,7 +7,7 @@
 
 [**Link to the Google Drive Containing all the Files**](https://drive.google.com/drive/folders/1e2nGDsZfV_kfSOfiPWKqfelK_zvqVgPR?usp=share_link)
 
-[**Link to the Written Narrative**]([https://drive.google.com/file/d/1dX7cdTKhA4ilLWrHslj_cNeDKxArl9Ju/view?usp=sharing](https://drive.google.com/file/d/1IddFn6Mos7H1QWQB4awTcNUUQKMHhtWz/view?usp=sharing))
+[**Link to the Written Narrative**](https://drive.google.com/file/d/1IddFn6Mos7H1QWQB4awTcNUUQKMHhtWz/view?usp=sharing)
 
 ---
 
