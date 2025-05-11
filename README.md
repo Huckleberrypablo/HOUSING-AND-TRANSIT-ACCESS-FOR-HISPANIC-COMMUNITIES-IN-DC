@@ -4,8 +4,11 @@
 **Course**: URSP688Y – Urban Data Science & Smart Cities  
 **Instructor**: Dr. Chester Harvey  
 **Date**: May 11, 2025
+
 [**Link to the Google Drive Containing all the Files**](https://drive.google.com/drive/folders/1e2nGDsZfV_kfSOfiPWKqfelK_zvqVgPR?usp=share_link)
+
 [**Link to the Written Narrative**](https://drive.google.com/file/d/1dX7cdTKhA4ilLWrHslj_cNeDKxArl9Ju/view?usp=sharing)
+
 ---
 
 ## 📌 Introduction
