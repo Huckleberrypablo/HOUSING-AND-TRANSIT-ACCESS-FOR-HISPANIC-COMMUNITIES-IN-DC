@@ -1,4 +1,4 @@
-# 🏘️📊 Analyzing the Intersection of Housing Affordability and Transit Access for Hispanic Communities in Washington, D.C.
+# Analyzing the Intersection of Housing Affordability and Transit Access for Hispanic Communities in Washington, D.C.
 
 **Author**: Pablo Andre Espejo  
 **Course**: URSP688Y – Urban Data Science & Smart Cities  
@@ -11,20 +11,20 @@
 
 ---
 
-## 📌 Introduction
+## Introduction
 
 This project examines whether affordable housing and public transit in Washington, D.C. equitably serve Hispanic communities, who face rising displacement pressures and transportation barriers due to gentrification. Using spatial analysis and data visualization, it explores the mismatch between where Hispanic populations live, where affordable housing is built, and where high-frequency transit is available.
 
 ---
 
-## 🎯 Central Research Questions
+## Central Research Questions
 
 1. How does the spatial distribution of affordable housing (by AMI tier) correlate with the Hispanic population at the census block group level?
 2. To what extent do Hispanic-majority areas have access to high-frequency Metrorail and Metrobus service?
 
 ---
 
-## 🗂️ Data Sources
+## Data Sources
 
 - **Affordable Housing Projects** (Open Data DC, since 2015)
 - **ACS 2023 Block Group Demographics** (NHGIS)
@@ -33,7 +33,7 @@ This project examines whether affordable housing and public transit in Washingto
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 ### 4.1 Spatial Joins & Calculations
 Each census block group was enriched with:
@@ -47,7 +47,7 @@ Variables were grouped into 3 tiers (low, medium, high) using **Natural Breaks (
 
 ---
 
-## 📈 Results
+## Results
 
 ### 5.1 Affordable Housing
 
@@ -73,7 +73,7 @@ Variables were grouped into 3 tiers (low, medium, high) using **Natural Breaks (
 
 ---
 
-## ✅ Conclusions
+## Conclusions
 
 - **Housing Mismatch**: Affordable housing, especially mid-tier (31–80% AMI), is not concentrated in Hispanic neighborhoods, limiting upward mobility and stability.
 - **Transportation Exclusion**: Metrorail investment favors wealthier, whiter areas, forcing Hispanic residents to rely on slower, less frequent buses.
@@ -83,7 +83,7 @@ There is a **persistent spatial mismatch** between affordable housing, transit a
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Time mismatch between transit and housing data
 - Ecological fallacy from census aggregation
@@ -92,7 +92,7 @@ There is a **persistent spatial mismatch** between affordable housing, transit a
 
 ---
 
-## 🔭 Future Work
+## Future Work
 
 - Longitudinal studies on housing distribution trends
 - Qualitative interviews with Hispanic residents
